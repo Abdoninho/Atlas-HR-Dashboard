@@ -1,5 +1,5 @@
 # HR Analytics Dashboard — Power BI
-<img width="1639" height="960" alt="ChatGPT Image Oct 9, 2026, 09_45_09 PM" src="https://github.com/user-attachments/assets/5dc6a3b0-e3fa-42ba-ada3-1a278cec587e" />
+<img width="1639" height="960" alt="ChatGPT Image Oct 9, 2026, 09_45_09 PM" src="https://github.com/user-attachments/assets/9f18af3b-7922-4d35-bf61-aeda79cf88fd" />
 
 
 
